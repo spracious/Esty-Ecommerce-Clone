@@ -61,13 +61,13 @@ function Navbar() {
             <Link to="/vintage">Vintage</Link>
           </ul>
 
-          <Link
+          {/* <Link
             className="nav-sign"
             style={{ color: "orangered", fontWeight:"bold", textDecoration: "none" }}
             to="/adminLogin"
           >
             Admin Access
-          </Link>
+          </Link> */}
         </div>
       </nav>
     </div>
