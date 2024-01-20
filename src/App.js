@@ -9,15 +9,6 @@ import Cart from "./components/pages/Cart";
 import Admin from "./adminComponents/pages/Admin";
 import AdminNav from "./adminComponents/pages/subComponents/AdminNav";
 import AdminUsers from "./adminComponents/pages/AdminUsers";
-import AdminProduct from "./adminComponents/pages/AdminProduct";
-import AdminNewUsers from "./adminComponents/pages/AdminNewUsers";
-import AdminNewProducts from "./adminComponents/pages/AdminNewProducts";
-import DataProvider from "./components/context/DataContext";
-import CartNav from "./components/pages/subComponents/CartNav";
-import Sigin from "./components/pages/Sigin";
-import Register from "./components/pages/Register";
-import AdminLogin from "./components/pages/AdminLogin";
-import Welcome from "./components/pages/Welcome";
 import SignIn from "./components/pages/SignIn";
 
 function App() {
