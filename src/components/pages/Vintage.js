@@ -116,7 +116,7 @@ function Vintage() {
         </div>
       </div>
 
-      <div className="vintage3">
+      {/* <div className="vintage3">
         <div className="vintage3-images">
           <div className="image">
             <img src={statmnt} alt="" />
@@ -209,7 +209,7 @@ function Vintage() {
           <p className="vintage3-price">USD 3.15</p>
           <p className="vintage3-title-line">EnglishCoinCompany</p>
         </Link>
-      </div>
+      </div> */}
 
       <div className="vintage3">
         <div style={{ marginBottom: "80px" }}>
